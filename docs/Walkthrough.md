@@ -249,7 +249,7 @@ render(
       <TodoApp />
       <DevTools />
     </div>
-  </Provider>
+  </Provider>,
   document.getElementById('app')
 );
 ```
